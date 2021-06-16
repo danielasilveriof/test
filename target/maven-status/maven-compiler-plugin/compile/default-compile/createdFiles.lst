@@ -1,0 +1,8 @@
+br\com\eletronicsManager\api\microprocessador\MicroprocessadorResource.class
+br\com\eletronicsManager\api\projeto\Projeto.class
+br\com\eletronicsManager\api\projeto\ProjetoResource.class
+br\com\eletronicsManager\api\helloworld\HelloWorldResource.class
+br\com\eletronicsManager\api\JAXRSConfiguration.class
+br\com\eletronicsManager\api\fabricante\FabricanteResource.class
+br\com\eletronicsManager\api\microprocessador\Microprocessador.class
+br\com\eletronicsManager\api\fabricante\Fabricante.class
